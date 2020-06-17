@@ -1,5 +1,5 @@
 # Smart-Methods-Internship-Tasks-
-Summer training ( artificial Intelligence with moving robots) 
+Summer internship ( artificial Intelligence with moving robots ) 
 
 
 here you will find completed tasks of the artificial Intelligence with moving robots path
