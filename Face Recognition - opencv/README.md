@@ -8,6 +8,7 @@
 #### 4. Recognize faces in images and video streams
 ------------
 
+![alt text](https://github.com/Eng-Turki-Alameer/Smart-Methods-Internship-Tasks-/blob/master/Face%20Recognition%20-%20opencv/2020-06-24-220456_1824x984_scrot.png)
 
 Refrances :
 - [Real Time Face Recognition with OpenCV ](https://circuitdigest.com/microcontroller-projects/raspberry-pi-and-opencv-based-face-recognition-system)
