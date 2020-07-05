@@ -11,9 +11,9 @@ $ cd ~/catkin_ws/src
  #### Now use the catkin_create_pkg script to create a new package called 'beginner_tutorials' which depends on std_msgs, roscpp, and rospy:
 * `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
 
-rospy : rospy is a pure Python client library for ROS. The rospy client API enables Python programmers to quickly interface with ROS Topics, Services, and Parameters
-roscpp : is a C++ implementation of ROS. It provides a client library that enables C++ programmers to quickly interface with ROS Topics, Services, and Parameters. 
-std_msgs : Standard ROS Messages including common message types representing primitive data types and other basic message constructs, such as multiarrays.
+- rospy : rospy is a pure Python client library for ROS. The rospy client API enables Python programmers to quickly interface with ROS Topics, Services, and Parameters
+- roscpp : is a C++ implementation of ROS. It provides a client library that enables C++ programmers to quickly interface with ROS Topics, Services, and Parameters. 
+- std_msgs : Standard ROS Messages including common message types representing primitive data types and other basic message constructs, such as multiarrays.
 ```
 # This is an example, do not try to run this
 # catkin_create_pkg <package_name> [depend1] [depend2] [depend3]
